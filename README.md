@@ -3,7 +3,7 @@
 A simple Retrieval-Augmented Generation (RAG) system with **Turkish language support** for customer service.  
 You can upload an FAQ PDF and ask questions to get accurate answers.  
 
-<img width="979" height="879" alt="Ekran görüntüsü 2025-09-13 215528" src="https://github.com/user-attachments/assets/f530f025-48e6-45be-aec4-0a0e115d68f2" />
+<img width="800" height="600" alt="Ekran görüntüsü 2025-09-13 215528" src="https://github.com/user-attachments/assets/f530f025-48e6-45be-aec4-0a0e115d68f2" />
 
 ## Features
 - 📄 Upload your own FAQ PDF (`musteri_destek_faq.pdf` as example included)
